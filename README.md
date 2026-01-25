@@ -13,6 +13,7 @@ I'm from **India 🇮🇳**.
 I'm passionate about **programming, software development, and AI** 💻.  
 I enjoy building **Java applications**, writing **clean code**, and learning new technologies.  
 I focus on improving **problem-solving and real-world development skills**.
+now obsessed with opencode and creating new plugins
 
 ---
 
